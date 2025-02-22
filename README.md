@@ -1,2 +1,3 @@
-# Clustering
-Implementation of the K-means clustering algorithm and hierarchical agglomerative clustering using the centroid method, single linkage, and complete linkage techniques
+# Clustering Implementation
+
+A custom implementation of the K-means clustering algorithm and Hierarchical Agglomerative Clustering using the centroid method, single linkage, and complete linkage, built entirely from scratch.
